@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44151be7-a89d-4bf1-beaa-d9436ff8b1ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Programs\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jSepyyKt2WNWKKrLj2sMLnf1pa" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stateful-expression-calculator" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Autocode\expression-calculator\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.epam.rd.servlets.expressioncalc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Autocode\expression-calculator\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalcServletTest">
+    <configuration name="CalcServletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlets-expression-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.servlets.expressioncalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.servlets.expressioncalc" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.servlets.expressioncalc.CalcServletTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcServletTest.test001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlets-expression-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.servlets.expressioncalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.servlets.expressioncalc" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.servlets.expressioncalc.CalcServletTest" />
+      <option name="METHOD_NAME" value="test001" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcServletTest.test005" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlets-expression-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.servlets.expressioncalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.servlets.expressioncalc" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.servlets.expressioncalc.CalcServletTest" />
+      <option name="METHOD_NAME" value="test005" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcServletTest.test008" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlets-expression-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.servlets.expressioncalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.servlets.expressioncalc" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.servlets.expressioncalc.CalcServletTest" />
+      <option name="METHOD_NAME" value="test008" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlets-expression-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.servlets.expressioncalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.servlets.expressioncalc" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.servlets.expressioncalc.MyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalcServletTest" />
+        <item itemvalue="JUnit.CalcServletTest.test001" />
+        <item itemvalue="JUnit.CalcServletTest.test008" />
+        <item itemvalue="JUnit.CalcServletTest.test005" />
+        <item itemvalue="JUnit.MyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44151be7-a89d-4bf1-beaa-d9436ff8b1ef" name="Default Changelist" comment="" />
+      <created>1603802106942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603802106942</updated>
+      <workItem from="1603802108003" duration="575000" />
+      <workItem from="1603802739328" duration="17877000" />
+      <workItem from="1603837243290" duration="546000" />
+      <workItem from="1603980683756" duration="1346000" />
+      <workItem from="1603993441413" duration="602000" />
+      <workItem from="1604045947111" duration="7000" />
+      <workItem from="1604046180611" duration="37000" />
+      <workItem from="1604046265595" duration="79000" />
+      <workItem from="1604046363022" duration="254000" />
+      <workItem from="1604052808787" duration="407000" />
+      <workItem from="1604053238508" duration="2000" />
+      <workItem from="1604053311081" duration="27000" />
+      <workItem from="1604053419701" duration="23000" />
+      <workItem from="1604257365958" duration="12000" />
+      <workItem from="1604484288613" duration="619000" />
+      <workItem from="1604585434596" duration="716000" />
+      <workItem from="1604645963199" duration="14000" />
+      <workItem from="1604855781614" duration="1045000" />
+      <workItem from="1605025433385" duration="601000" />
+      <workItem from="1605111635812" duration="11000" />
+      <workItem from="1605193309546" duration="10000" />
+      <workItem from="1605458033056" duration="541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603812374865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603812374865" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603833280985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603833280985" />
+    <state x="731" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603802826243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="310" key="#com.intellij.fileTypes.FileTypeChooser/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603802826243" />
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1603803342351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603803342351" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603802671018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603802671018" />
+    <state x="725" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603803377420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603803377420" />
+    <state x="714" y="362" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603803410714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="362" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603803410714" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605458575872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605111645119" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605458575872" />
+    <state x="2413" y="324" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1604585453037" />
+    <state width="1237" height="256" key="GridCell.Tab.0.bottom" timestamp="1604586363701">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603837792871" />
+    <state width="1237" height="256" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1604586363701" />
+    <state width="1237" height="256" key="GridCell.Tab.0.center" timestamp="1604586363701">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603837792871" />
+    <state width="1237" height="256" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1604586363701" />
+    <state width="1237" height="256" key="GridCell.Tab.0.left" timestamp="1604586363701">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603837792871" />
+    <state width="1237" height="256" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1604586363701" />
+    <state width="1237" height="256" key="GridCell.Tab.0.right" timestamp="1604586363701">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603837792871" />
+    <state width="1237" height="256" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1604586363701" />
+    <state width="1877" height="376" key="GridCell.Tab.1.bottom" timestamp="1603837792871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.1.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603837792871" />
+    <state width="1877" height="376" key="GridCell.Tab.1.center" timestamp="1603837792871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.1.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603837792871" />
+    <state width="1877" height="376" key="GridCell.Tab.1.left" timestamp="1603837792871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.1.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603837792871" />
+    <state width="1877" height="376" key="GridCell.Tab.1.right" timestamp="1603837792871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="376" key="GridCell.Tab.1.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603837792871" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604053433945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604053433945" />
+    <state x="817" y="282" width="583" height="566" key="find.popup" timestamp="1604855864602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="282" width="583" height="566" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604855864602" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/servlets_expression_calculator$CalcServletTest_test003.ic" NAME="CalcServletTest.test003 Coverage Results" MODIFIED="1603811992447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.rd.servlets.expressioncalc.*</FILTER>
+    </SUITE>
+  </component>
+</project>

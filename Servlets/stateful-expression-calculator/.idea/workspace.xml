@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ca7c0c7-d94c-42c3-8986-07c2eb1daeb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Programs\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k9TwZZzQWytDkjMZkPL6Rc2iKj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Autocode\stateful-expression-calculator\src\main" />
+      <recent name="E:\Projects\Autocode\stateful-expression-calculator\src\main\webapp\WEB-INF" />
+      <recent name="E:\Projects\Autocode\stateful-expression-calculator\src\main\webapp" />
+      <recent name="E:\Projects\Autocode\stateful-expression-calculator\src\main\WEB-INF" />
+      <recent name="E:\Projects\Autocode\stateful-expression-calculator\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Autocode\stateful-expression-calculator\src\main\java" />
+      <recent name="E:\Projects\Autocode\stateful-expression-calculator\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StatefulCalcServletTest">
+    <configuration name="StatefulCalcServletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlets-expression-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.efimchick.ifmo.web.servlets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.efimchick.ifmo.web.servlets" />
+      <option name="MAIN_CLASS_NAME" value="com.efimchick.ifmo.web.servlets.StatefulCalcServletTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatefulCalcServletTest.test001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlets-expression-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.efimchick.ifmo.web.servlets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.efimchick.ifmo.web.servlets" />
+      <option name="MAIN_CLASS_NAME" value="com.efimchick.ifmo.web.servlets.StatefulCalcServletTest" />
+      <option name="METHOD_NAME" value="test001" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatefulCalcServletTest.test004" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlets-expression-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.efimchick.ifmo.web.servlets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.efimchick.ifmo.web.servlets" />
+      <option name="MAIN_CLASS_NAME" value="com.efimchick.ifmo.web.servlets.StatefulCalcServletTest" />
+      <option name="METHOD_NAME" value="test004" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatefulCalcServletTest.test012" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlets-expression-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.efimchick.ifmo.web.servlets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.efimchick.ifmo.web.servlets" />
+      <option name="MAIN_CLASS_NAME" value="com.efimchick.ifmo.web.servlets.StatefulCalcServletTest" />
+      <option name="METHOD_NAME" value="test012" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatefulCalcServletTest" />
+        <item itemvalue="JUnit.StatefulCalcServletTest.test004" />
+        <item itemvalue="JUnit.StatefulCalcServletTest.test012" />
+        <item itemvalue="JUnit.StatefulCalcServletTest.test001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ca7c0c7-d94c-42c3-8986-07c2eb1daeb5" name="Default Changelist" comment="" />
+      <created>1605112047795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605112047795</updated>
+      <workItem from="1605112049851" duration="5830000" />
+      <workItem from="1605174552481" duration="12975000" />
+      <workItem from="1605198353109" duration="1451000" />
+      <workItem from="1605204191173" duration="1323000" />
+      <workItem from="1605206643999" duration="6019000" />
+      <workItem from="1605451663816" duration="68000" />
+      <workItem from="1605458017420" duration="13000" />
+      <workItem from="1605458579642" duration="914000" />
+      <workItem from="1605459581399" duration="174000" />
+      <workItem from="1605728377877" duration="247000" />
+      <workItem from="1605814359027" duration="612000" />
+      <workItem from="1606078765447" duration="43000" />
+      <workItem from="1606324365266" duration="809000" />
+      <workItem from="1607861498263" duration="6811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="756" y="188" key="#Project_Structure" timestamp="1605112134520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="188" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1605112134520" />
+    <state x="-1371" y="250" width="1302" height="708" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1607887686206">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state x="-1371" y="250" width="1302" height="708" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1607887686206" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605113110283" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605210766169" />
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1605195454952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605195454952" />
+    <state width="415" height="646" key="DebuggerActiveHint" timestamp="1605117090484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="415" height="646" key="DebuggerActiveHint/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605117090483" />
+    <state x="2413" y="324" width="440" height="488" key="FileChooserDialogImpl" timestamp="1606325179274">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605458028227" />
+    <state x="2413" y="324" width="440" height="488" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1606325179274" />
+    <state width="1397" height="198" key="GridCell.Tab.0.bottom" timestamp="1607887686196">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state width="1397" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1607887686196" />
+    <state width="1877" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605119266070" />
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605459751398" />
+    <state width="1397" height="198" key="GridCell.Tab.0.center" timestamp="1607887686196">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state width="1397" height="198" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1607887686196" />
+    <state width="1877" height="340" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605119266070" />
+    <state width="1877" height="253" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605459751398" />
+    <state width="1397" height="198" key="GridCell.Tab.0.left" timestamp="1607887686196">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state width="1397" height="198" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1607887686196" />
+    <state width="1877" height="340" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605119266070" />
+    <state width="1877" height="253" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605459751398" />
+    <state width="1397" height="198" key="GridCell.Tab.0.right" timestamp="1607887686196">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state width="1397" height="198" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1607887686196" />
+    <state width="1877" height="340" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605119266070" />
+    <state width="1877" height="253" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605459751398" />
+    <state width="1877" height="367" key="GridCell.Tab.1.bottom" timestamp="1605212864693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605119266070" />
+    <state width="1877" height="367" key="GridCell.Tab.1.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605212864693" />
+    <state width="1877" height="367" key="GridCell.Tab.1.center" timestamp="1605212864692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605119266070" />
+    <state width="1877" height="367" key="GridCell.Tab.1.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605212864692" />
+    <state width="1877" height="367" key="GridCell.Tab.1.left" timestamp="1605212864692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605119266070" />
+    <state width="1877" height="367" key="GridCell.Tab.1.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605212864692" />
+    <state width="1877" height="367" key="GridCell.Tab.1.right" timestamp="1605212864693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605119266070" />
+    <state width="1877" height="367" key="GridCell.Tab.1.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605212864693" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1605728490719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605728490719" />
+    <state x="421" y="167" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605212116024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="167" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605212116024" />
+    <state x="1918" y="54" width="1296" height="1022" maximized="true" key="dock-window-1" timestamp="1605728625813">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state x="1918" y="54" width="1296" height="1022" maximized="true" key="dock-window-1/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605728625813" />
+    <state x="669" y="208" width="583" height="624" key="find.popup" timestamp="1605198073325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="208" width="583" height="624" key="find.popup/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1605198073325" />
+    <state x="342" y="84" key="new project wizard" timestamp="1606324481931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="84" key="new project wizard/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606324481931" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/efimchick/ifmo/web/servlets/StatefulCalcServletTest.java</url>
+          <line>166</line>
+          <properties class="com.efimchick.ifmo.web.servlets.StatefulCalcServletTest" method="test001">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/VariablesCalcServlet.java</url>
+          <line>15</line>
+          <properties class="VariablesCalcServlet" method="doPut">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ExpressionCalcServlet.java</url>
+          <line>12</line>
+          <properties class="ExpressionCalcServlet" method="doPut">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ResultCalcServlet.java</url>
+          <line>13</line>
+          <properties class="ResultCalcServlet" method="doGet">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/StatefulCalcFilter.java</url>
+          <line>16</line>
+          <properties class="StatefulCalcFilter" method="doFilter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/VariablesCalcServlet.java</url>
+          <line>49</line>
+          <properties class="VariablesCalcServlet" method="doDelete">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/efimchick/ifmo/web/servlets/StatefulCalcServletTest.java</url>
+          <line>187</line>
+          <properties class="com.efimchick.ifmo.web.servlets.StatefulCalcServletTest" method="test004">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
