@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4937945-aa4e-417a-a63c-129605e004a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Programs\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mqI3M1SNG7dJCaqV4eJPESIfsW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Spring MVC/spring-catalog-access" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
+  </component>
+  <component name="RunManager" selected="JUnit.ThreadScopeTest">
+    <configuration name="JustASecondScopeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-custom-scopes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.epam.autotasks.scopes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd.epam.autotasks.scopes" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.epam.autotasks.scopes.JustASecondScopeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadScopeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-custom-scopes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.epam.autotasks.scopes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd.epam.autotasks.scopes" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.epam.autotasks.scopes.ThreadScopeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeTimesScopeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-custom-scopes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.epam.autotasks.scopes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd.epam.autotasks.scopes" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.epam.autotasks.scopes.ThreeTimesScopeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ThreadScopeTest" />
+        <item itemvalue="JUnit.JustASecondScopeTest" />
+        <item itemvalue="JUnit.ThreeTimesScopeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4937945-aa4e-417a-a63c-129605e004a6" name="Default Changelist" comment="" />
+      <created>1610214495736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610214495736</updated>
+      <workItem from="1610214496909" duration="5508000" />
+      <workItem from="1610355170279" duration="5360000" />
+      <workItem from="1610360599786" duration="63000" />
+      <workItem from="1610360825878" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1094" y="282" key="#Inspections" timestamp="1610218619215">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state x="-1094" y="282" key="#Inspections/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610218619215" />
+    <state x="-1348" y="266" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1610219644149">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state x="-1348" y="266" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610219644149" />
+    <state x="700" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1610360057510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-915" y="307" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610218278136" />
+    <state x="700" y="161" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360057510" />
+    <state x="-955" y="459" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610217605901">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state x="-955" y="459" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610217605901" />
+    <state x="476" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610355260804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="476" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610355260804" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1610360848559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360848559" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1610360662593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610221219079" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360662593" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1610360662592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610221219079" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360662592" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1610360662592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610221219079" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360662592" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1610360662593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610221219079" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360662593" />
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1610360574495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="268" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610221219080" />
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360574495" />
+    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1610360574495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="268" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610221219080" />
+    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360574495" />
+    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1610360574495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="268" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610221219080" />
+    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360574495" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1610360574495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="268" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610221219080" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610360574495" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1610359683310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610359683310" />
+    <state x="-1012" y="321" width="583" height="566" key="find.popup" timestamp="1610217622747">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state x="-1012" y="321" width="583" height="566" key="find.popup/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610217622747" />
+    <state x="746" y="257" key="refactoring.ChangeSignatureDialog" timestamp="1610358046581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="257" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1610358046581" />
+    <state x="-1166" y="203" key="spring file set editor" timestamp="1610217173325">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state x="-1166" y="203" key="spring file set editor/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1610217173325" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rd/epam/autotasks/scopes/config/scopes/ThreeTimesScope.java</url>
+          <line>13</line>
+          <properties class="com.rd.epam.autotasks.scopes.config.scopes.ThreeTimesScope" method="get">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rd/epam/autotasks/scopes/JustASecondScopeTest.java</url>
+          <line>15</line>
+          <properties class="com.rd.epam.autotasks.scopes.JustASecondScopeTest" method="testTenThreeTimesBeans">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="beans21" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

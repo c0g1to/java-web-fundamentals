@@ -1,0 +1,9 @@
+
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ø‰ëÍ
+f	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô²âç
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¦éÿÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.annotation.JsonTypeInfo'.(Ç†ó¹üÿÿÿÿ

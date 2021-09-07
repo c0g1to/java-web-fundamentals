@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb4bb59e-5d54-495b-84c6-742c6e2d097b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Programs\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iy4fEVNCmr0cz3XOaoSwrRYSvU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dao" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.SetMapperTest">
+    <configuration name="SetMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="set-mapper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.SetMapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMapperTest.employeeMapRowAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="set-mapper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.SetMapperTest" />
+      <option name="METHOD_NAME" value="employeeMapRowAllTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMapperTest.employeeMapRowOneDepartmentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="set-mapper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.SetMapperTest" />
+      <option name="METHOD_NAME" value="employeeMapRowOneDepartmentTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SetMapperTest" />
+        <item itemvalue="JUnit.SetMapperTest.employeeMapRowAllTest" />
+        <item itemvalue="JUnit.SetMapperTest.employeeMapRowOneDepartmentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb4bb59e-5d54-495b-84c6-742c6e2d097b" name="Default Changelist" comment="" />
+      <created>1602866600697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602866600697</updated>
+      <workItem from="1602866601842" duration="12230000" />
+      <workItem from="1602952785402" duration="23000" />
+      <workItem from="1602953123117" duration="6852000" />
+      <workItem from="1603011210326" duration="642000" />
+      <workItem from="1603016701841" duration="5506000" />
+      <workItem from="1603092310845" duration="1392000" />
+      <workItem from="1603096340819" duration="966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1602880990209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602880990209" />
+    <state x="734" y="164" key="FileChooserDialogImpl" timestamp="1603019409522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="164" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603019409522" />
+    <state x="2409" y="219" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1603017727788" />
+    <state width="1237" height="372" key="GridCell.Tab.0.bottom" timestamp="1603096140740">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="398" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602883805701" />
+    <state width="1237" height="372" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1603096140740" />
+    <state width="1237" height="372" key="GridCell.Tab.0.center" timestamp="1603096140740">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="398" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602883805701" />
+    <state width="1237" height="372" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1603096140740" />
+    <state width="1237" height="372" key="GridCell.Tab.0.left" timestamp="1603096140740">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="398" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602883805701" />
+    <state width="1237" height="372" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1603096140740" />
+    <state width="1237" height="372" key="GridCell.Tab.0.right" timestamp="1603096140740">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="398" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602883805701" />
+    <state width="1237" height="372" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1603096140740" />
+    <state width="1877" height="862" key="GridCell.Tab.1.bottom" timestamp="1602882849564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="862" key="GridCell.Tab.1.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602882849564" />
+    <state width="1877" height="862" key="GridCell.Tab.1.center" timestamp="1602882849564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="862" key="GridCell.Tab.1.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602882849564" />
+    <state width="1877" height="862" key="GridCell.Tab.1.left" timestamp="1602882849564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="862" key="GridCell.Tab.1.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602882849564" />
+    <state width="1877" height="862" key="GridCell.Tab.1.right" timestamp="1602882849564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="862" key="GridCell.Tab.1.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602882849564" />
+  </component>
+</project>

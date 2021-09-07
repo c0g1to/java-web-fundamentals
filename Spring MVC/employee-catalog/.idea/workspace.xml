@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d66bf184-4625-40f2-a5ff-0b3941639c83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Programs\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lcEZCqvSZ9xcDGSdLrBkxVnPFD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Autocode\Spring MVC\employee-catalog\src\main\java\com\epam\rd\autotasks\springemployeecatalog\sevices" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MvcTests">
+    <configuration name="MvcTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees-catalogue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autotasks.springemployeecatalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autotasks.springemployeecatalog" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autotasks.springemployeecatalog.MvcTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcTests.testAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees-catalogue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autotasks.springemployeecatalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autotasks.springemployeecatalog" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autotasks.springemployeecatalog.MvcTests" />
+      <option name="METHOD_NAME" value="testAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcTests.testByDepId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees-catalogue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autotasks.springemployeecatalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autotasks.springemployeecatalog" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autotasks.springemployeecatalog.MvcTests" />
+      <option name="METHOD_NAME" value="testByDepId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcTests.testByDepName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees-catalogue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autotasks.springemployeecatalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autotasks.springemployeecatalog" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autotasks.springemployeecatalog.MvcTests" />
+      <option name="METHOD_NAME" value="testByDepName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcTests.testByManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees-catalogue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autotasks.springemployeecatalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autotasks.springemployeecatalog" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autotasks.springemployeecatalog.MvcTests" />
+      <option name="METHOD_NAME" value="testByManager" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="employees-catalogue" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.epam.rd.autotasks.springemployeecatalog.MvcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MvcTests" />
+        <item itemvalue="JUnit.MvcTests.testAll" />
+        <item itemvalue="JUnit.MvcTests.testByDepName" />
+        <item itemvalue="JUnit.MvcTests.testByDepId" />
+        <item itemvalue="JUnit.MvcTests.testByManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d66bf184-4625-40f2-a5ff-0b3941639c83" name="Default Changelist" comment="" />
+      <created>1607888033456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607888033456</updated>
+      <workItem from="1607888034788" duration="73000" />
+      <workItem from="1607932713050" duration="2199000" />
+      <workItem from="1607948286685" duration="714000" />
+      <workItem from="1607950188305" duration="16547000" />
+      <workItem from="1609233127467" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1607977320461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607977320461" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1607971773304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607971773304" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607967539580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607967539580" />
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom" timestamp="1607978195999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607978195999" />
+    <state width="1877" height="195" key="GridCell.Tab.0.center" timestamp="1607978195998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607978195998" />
+    <state width="1877" height="195" key="GridCell.Tab.0.left" timestamp="1607978195998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607978195998" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right" timestamp="1607978195998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607978195998" />
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1607978195995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607978195995" />
+    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1607978195995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607978195995" />
+    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1607978195995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607978195995" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1607978195995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607978195995" />
+    <state x="540" y="255" key="IDE.errors.dialog" timestamp="1607976850499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="255" key="IDE.errors.dialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607976850499" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1607971772903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607971772903" />
+    <state x="-1502" y="163" width="1456" height="719" maximized="true" key="dock-window-1" timestamp="1607964630680">
+      <screen x="-1440" y="174" width="1440" height="860" />
+    </state>
+    <state x="-1502" y="163" width="1456" height="719" maximized="true" key="dock-window-1/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607964630680" />
+    <state x="668" y="237" width="583" height="624" key="find.popup" timestamp="1607976036297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="237" width="583" height="624" key="find.popup/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607976036297" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607965602485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607965602485" />
+    <state x="682" y="425" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1607976865888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="425" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607976865888" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autotasks/springemployeecatalog/MvcTests.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/epam/rd/autotasks/springemployeecatalog/controllers/EmployeeController.java</url>
+          <line>15</line>
+          <properties class="com.epam.rd.autotasks.springemployeecatalog.controllers.EmployeeController" method="getAllEmployees">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

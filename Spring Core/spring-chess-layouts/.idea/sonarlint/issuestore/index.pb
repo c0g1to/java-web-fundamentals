@@ -1,0 +1,25 @@
+
+o
+?src/main/java/com/epam/rd/autotasks/chesspuzles/ChessPiece.java,4\4\448a0ac09a88553ed2975f62d42f9fd13b33166e
+o
+?src/main/java/com/epam/rd/autotasks/chesspuzles/ChessBoard.java,c\9\c94e886712c24ab851cd6007242ce3fb8ce67e76
+i
+9src/main/java/com/epam/rd/autotasks/chesspuzles/Cell.java,7\5\7534562eef5b031a96d7abccf1ad296e605bcb40
+x
+Hsrc/main/java/com/epam/rd/autotasks/chesspuzles/layout/DefaultWhite.java,a\6\a6ea062f67a711700acc6b9bac930e86e6d6e4df
+t
+Dsrc/main/java/com/epam/rd/autotasks/chesspuzles/layout/Puzzle01.java,b\8\b80005841c070d8bd1570e7c0edf8af4fbf1016b
+t
+Dsrc/main/java/com/epam/rd/autotasks/chesspuzles/layout/Puzzle02.java,4\4\44341fa8e0482f04dbf38057a099f15b7a4c6be7
+x
+Hsrc/main/java/com/epam/rd/autotasks/chesspuzles/layout/DefaultBlack.java,d\c\dcce5f43fe760696fa0996fd7fb1979a7f233b06
+s
+Csrc/main/java/com/epam/rd/autotasks/chesspuzles/ChessBoardImpl.java,b\3\b314abd47e84175a3defcac8c23217303d584fda
+s
+Csrc/main/java/com/epam/rd/autotasks/chesspuzles/ChessPieceImpl.java,0\2\024719afb7ca3ee3fe92867a6255c4d009847b4c
+u
+Esrc/test/java/com/epam/rd/autotasks/chesspuzles/ChessPuzzlesTest.java,0\6\06acacbe1433466e2237e5b58158823909f779fd
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+s
+Csrc/main/java/com/epam/rd/autotasks/chesspuzles/layout/Default.java,3\1\3152bd4a087c3a5258205a781da3a134eb051b8f

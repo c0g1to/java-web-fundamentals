@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="H"/>
+        <constructor-arg index="1" value="8"/>
+        <constructor-arg index="2" value="r"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="B"/>
+        <constructor-arg index="1" value="7"/>
+        <constructor-arg index="2" value="P"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="D"/>
+        <constructor-arg index="1" value="7"/>
+        <constructor-arg index="2" value="Q"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="E"/>
+        <constructor-arg index="1" value="7"/>
+        <constructor-arg index="2" value="P"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="F"/>
+        <constructor-arg index="1" value="7"/>
+        <constructor-arg index="2" value="r"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="A"/>
+        <constructor-arg index="1" value="6"/>
+        <constructor-arg index="2" value="P"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="D"/>
+        <constructor-arg index="1" value="6"/>
+        <constructor-arg index="2" value="P"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="G"/>
+        <constructor-arg index="1" value="6"/>
+        <constructor-arg index="2" value="P"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="D"/>
+        <constructor-arg index="1" value="5"/>
+        <constructor-arg index="2" value="p"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="G"/>
+        <constructor-arg index="1" value="5"/>
+        <constructor-arg index="2" value="K"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="B"/>
+        <constructor-arg index="1" value="4"/>
+        <constructor-arg index="2" value="B"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="C"/>
+        <constructor-arg index="1" value="3"/>
+        <constructor-arg index="2" value="R"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="G"/>
+        <constructor-arg index="1" value="2"/>
+        <constructor-arg index="2" value="p"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="H"/>
+        <constructor-arg index="1" value="2"/>
+        <constructor-arg index="2" value="p"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="C"/>
+        <constructor-arg index="1" value="1"/>
+        <constructor-arg index="2" value="R"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="D"/>
+        <constructor-arg index="1" value="1"/>
+        <constructor-arg index="2" value="b"/>
+    </bean>
+
+    <bean class="com.epam.rd.autotasks.chesspuzles.ChessPieceImpl">
+        <constructor-arg index="0" value="H"/>
+        <constructor-arg index="1" value="1"/>
+        <constructor-arg index="2" value="k"/>
+    </bean>
+
+</beans>

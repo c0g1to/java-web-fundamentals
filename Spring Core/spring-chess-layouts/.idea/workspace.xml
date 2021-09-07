@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfccca7d-d69a-4980-8905-5011d1972718" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Programs\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l16kCK9o7aBQwDHxbjNr5X4ddp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Kotlin/test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3402299" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.epam.rd.autotasks.chesspuzles.layout" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Autocode\Spring Core\spring-chess-layouts\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ChessPuzzlesTest">
+    <configuration name="ChessPuzzlesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-chess-layouts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autotasks.chesspuzles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autotasks.chesspuzles" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autotasks.chesspuzles.ChessPuzzlesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessPuzzlesTest.testJavaConfigLayouts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-chess-layouts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autotasks.chesspuzles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autotasks.chesspuzles" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autotasks.chesspuzles.ChessPuzzlesTest" />
+      <option name="METHOD_NAME" value="testJavaConfigLayouts(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChessPuzzlesTest" />
+        <item itemvalue="JUnit.ChessPuzzlesTest.testJavaConfigLayouts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfccca7d-d69a-4980-8905-5011d1972718" name="Default Changelist" comment="" />
+      <created>1606752391166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606752391166</updated>
+      <workItem from="1606752392330" duration="259000" />
+      <workItem from="1606755450012" duration="1760000" />
+      <workItem from="1606817185681" duration="1254000" />
+      <workItem from="1606917536518" duration="13500000" />
+      <workItem from="1606934802776" duration="15000" />
+      <workItem from="1607081342278" duration="143000" />
+      <workItem from="1607081620245" duration="5000" />
+      <workItem from="1607082225516" duration="8000" />
+      <workItem from="1607161074514" duration="1483000" />
+      <workItem from="1607164724276" duration="1998000" />
+      <workItem from="1607180710130" duration="1196000" />
+      <workItem from="1607855529853" duration="36000" />
+      <workItem from="1607967543156" duration="645000" />
+      <workItem from="1613581415180" duration="64000" />
+      <workItem from="1613666938398" duration="291000" />
+      <workItem from="1613685126508" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="100" width="774" height="847" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606932731705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="100" width="774" height="847" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606932731705" />
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1606921659201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606921659201" />
+    <state width="396" height="618" key="DebuggerActiveHint" timestamp="1606919320933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="396" height="618" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1606919320933" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1613685137276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-885" y="401" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1607855564368" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607082231392" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606933359879" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1613685137276" />
+    <state x="2413" y="324" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1613581478666" />
+    <state width="1237" height="255" key="GridCell.Tab.0.bottom" timestamp="1613581479140">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606933361077" />
+    <state width="1237" height="255" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1613581479140" />
+    <state width="1237" height="255" key="GridCell.Tab.0.center" timestamp="1613581479140">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606933361077" />
+    <state width="1237" height="255" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1613581479140" />
+    <state width="1237" height="255" key="GridCell.Tab.0.left" timestamp="1613581479140">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606933361077" />
+    <state width="1237" height="255" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1613581479140" />
+    <state width="1237" height="255" key="GridCell.Tab.0.right" timestamp="1613581479140">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606933361077" />
+    <state width="1237" height="255" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1613581479140" />
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1606933361078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606933361078" />
+    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1606933361078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606933361078" />
+    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1606933361078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606933361078" />
+    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1606933361078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606933361078" />
+    <state x="392" y="126" width="916" height="744" key="SettingsEditor" timestamp="1613667230760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="194" width="921" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607164764373" />
+    <state x="392" y="126" width="916" height="744" key="SettingsEditor/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1613667230760" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1606928418671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1606928418671" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autotasks/chesspuzles/ChessPuzzlesTest.java</url>
+          <line>27</line>
+          <properties class="com.epam.rd.autotasks.chesspuzles.ChessPuzzlesTest" method="testXmlConfigLayouts">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

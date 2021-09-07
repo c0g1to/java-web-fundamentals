@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbb3efd7-a084-4bd8-b2bb-17b6662137cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Programs\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j2yutBYskEY1G0zz9baqpH4YPR" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hsqldb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.epam.rd.autocode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.epam.rd.autocode.mapping" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Autocode\service\src\main\java\com\epam\rd\autocode\mapping" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EmployeeServiceTests">
+    <configuration name="EmployeeServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.mapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.EmployeeServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTests.testAllSortBySalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.mapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.EmployeeServiceTests" />
+      <option name="METHOD_NAME" value="testAllSortBySalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTests.testByDepartmentSortByHireDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.mapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.EmployeeServiceTests" />
+      <option name="METHOD_NAME" value="testByDepartmentSortByHireDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTests.testTopNthBySalaryByDepartment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.mapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.EmployeeServiceTests" />
+      <option name="METHOD_NAME" value="testTopNthBySalaryByDepartment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceTests.testWithDepartmentAndFullManagerChain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.mapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.EmployeeServiceTests" />
+      <option name="METHOD_NAME" value="testWithDepartmentAndFullManagerChain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeServiceTests" />
+        <item itemvalue="JUnit.EmployeeServiceTests.testAllSortBySalary" />
+        <item itemvalue="JUnit.EmployeeServiceTests.testTopNthBySalaryByDepartment" />
+        <item itemvalue="JUnit.EmployeeServiceTests.testWithDepartmentAndFullManagerChain" />
+        <item itemvalue="JUnit.EmployeeServiceTests.testByDepartmentSortByHireDate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbb3efd7-a084-4bd8-b2bb-17b6662137cb" name="Default Changelist" comment="" />
+      <created>1603016707073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603016707073</updated>
+      <workItem from="1603016708211" duration="25156000" />
+      <workItem from="1603092308310" duration="3803000" />
+      <workItem from="1603096341882" duration="3032000" />
+      <workItem from="1603103871097" duration="650000" />
+      <workItem from="1603631290825" duration="187000" />
+      <workItem from="1603793456881" duration="1043000" />
+      <workItem from="1604645979184" duration="1235000" />
+      <workItem from="1605967522487" duration="1233000" />
+      <workItem from="1606040305185" duration="3723000" />
+      <workItem from="1606329178500" duration="406000" />
+      <workItem from="1607933015006" duration="1566000" />
+      <workItem from="1607950538991" duration="2763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="356" key="#SQL_Dialects" timestamp="1603046617776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="356" key="#SQL_Dialects/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603046617776" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603046606051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603046606051" />
+    <state x="40" y="82" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603093260096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="40" y="82" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603093260096" />
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1603103089890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603103089890" />
+    <state x="725" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603037615349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603037615349" />
+    <state x="2413" y="324" key="FileChooserDialogImpl" timestamp="1604647798161">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603794505763" />
+    <state x="2413" y="324" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1604647798161" />
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1603104710816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603104710816" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1603104710816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603104710816" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1603104710816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603104710816" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1603104710816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603104710816" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1603103722854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603103722854" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1603103722854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603103722854" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1603103722853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603103722853" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1603103722854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603103722854" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1606076142905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606076142905" />
+    <state x="461" y="165" key="SettingsEditor/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603793643457" />
+    <state x="1935" y="54" width="1296" height="1022" maximized="true" key="dock-window-1" timestamp="1603104711006">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state x="1935" y="54" width="1296" height="1022" maximized="true" key="dock-window-1/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603104711006" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603794197651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603794197651" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autocode/EmployeeServiceTests.java</url>
+          <line>139</line>
+          <properties class="com.epam.rd.autocode.EmployeeServiceTests" method="testByDepartmentSortByHireDate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autocode/EmployeeServiceTests.java</url>
+          <line>271</line>
+          <properties class="com.epam.rd.autocode.EmployeeServiceTests" method="testWithDepartmentAndFullManagerChain">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autocode/EmployeeServiceTests.java</url>
+          <line>243</line>
+          <properties class="com.epam.rd.autocode.EmployeeServiceTests" method="testTopNthBySalaryByDepartment">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autocode/EmployeeServiceTests.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

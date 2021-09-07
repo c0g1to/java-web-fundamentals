@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33a56674-814f-4a8f-89b6-e2f3772c96a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Programs\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ix3GU9s0bFkJ6uFIXowsHspTc1" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hsqldb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../row-mapper" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="JUnit.SqlQueriesTest">
+    <configuration name="init-ddl.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/test/resources/init-ddl.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="dc734bc8-3205-470f-a543-a15c161e8b07" />
+      <method v="2" />
+    </configuration>
+    <configuration name="init-dml.sql (1)" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/test/resources/init-dml.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="dc734bc8-3205-470f-a543-a15c161e8b07" />
+      <method v="2" />
+    </configuration>
+    <configuration name="init-dml.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/test/java/com/epam/rd/tasks/sqlqueries/ConnectionSource.java" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="SqlQueriesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sql-queries" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.tasks.sqlqueries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.tasks.sqlqueries" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.tasks.sqlqueries.SqlQueriesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqlQueriesTest.testSelect01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sql-queries" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.tasks.sqlqueries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.tasks.sqlqueries" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.tasks.sqlqueries.SqlQueriesTest" />
+      <option name="METHOD_NAME" value="testSelect01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SqlQueriesTest" />
+        <item itemvalue="Database Script.init-dml.sql" />
+        <item itemvalue="Database Script.init-ddl.sql" />
+        <item itemvalue="JUnit.SqlQueriesTest.testSelect01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33a56674-814f-4a8f-89b6-e2f3772c96a1" name="Default Changelist" comment="" />
+      <created>1602835321369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602835321369</updated>
+      <workItem from="1602835322632" duration="9423000" />
+      <workItem from="1602964705295" duration="9000" />
+      <workItem from="1603048812123" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="356" key="#SQL_Dialects" timestamp="1602835883688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="356" key="#SQL_Dialects/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602835883688" />
+    <state x="400" y="370" key="#SQL_Resolution_Scopes" timestamp="1602841153426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="400" y="370" key="#SQL_Resolution_Scopes/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602841153426" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602839234007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602839234007" />
+    <state x="132" y="539" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1602844671716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="132" y="539" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602844671716" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1602858738365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602858738365" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1602858739879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602858739879" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1602858739879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602858739879" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1602858739879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602858739879" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1602858739879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602858739879" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602839530221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602839530221" />
+    <state width="200" height="523" key="SqlResolveConfigurable" timestamp="1602839972478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="200" height="523" key="SqlResolveConfigurable/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602839972478" />
+    <state x="730" y="122" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1602841132287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="122" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602841132287" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1602839557700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602839557700" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602839558777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602839558777" />
+  </component>
+</project>

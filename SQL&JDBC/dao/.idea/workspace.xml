@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40579771-617c-43f9-9085-c96ace30bee1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Programs\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j0tP2OkTWYDlAlvnhmF7V01dgB" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hsqldb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Autocode\dao\src\main\java\com\epam\rd\autocode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DepartmentDaoTests">
+    <configuration name="DepartmentDaoTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.DepartmentDaoTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentDaoTests.departmentDaoFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.DepartmentDaoTests" />
+      <option name="METHOD_NAME" value="departmentDaoFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentDaoTests.departmentDaoSaveDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.DepartmentDaoTests" />
+      <option name="METHOD_NAME" value="departmentDaoSaveDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeDaoTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.EmployeeDaoTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeDaoTests.departmentDaoSaveDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.autocode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.rd.autocode" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.autocode.EmployeeDaoTests" />
+      <option name="METHOD_NAME" value="departmentDaoSaveDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DepartmentDaoTests" />
+        <item itemvalue="JUnit.DepartmentDaoTests.departmentDaoFindById" />
+        <item itemvalue="JUnit.EmployeeDaoTests" />
+        <item itemvalue="JUnit.DepartmentDaoTests.departmentDaoSaveDelete" />
+        <item itemvalue="JUnit.EmployeeDaoTests.departmentDaoSaveDelete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40579771-617c-43f9-9085-c96ace30bee1" name="Default Changelist" comment="" />
+      <created>1602952809184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602952809184</updated>
+      <workItem from="1602952810325" duration="18104000" />
+      <workItem from="1603011261476" duration="5301000" />
+      <workItem from="1603016627515" duration="72000" />
+      <workItem from="1603016868703" duration="10000" />
+      <workItem from="1603017731206" duration="722000" />
+      <workItem from="1603019412815" duration="4532000" />
+      <workItem from="1603092308249" duration="595000" />
+      <workItem from="1603096344314" duration="1938000" />
+      <workItem from="1603475608936" duration="841000" />
+      <workItem from="1603557765948" duration="251000" />
+      <workItem from="1603560476087" duration="1109000" />
+      <workItem from="1605957113731" duration="1370000" />
+      <workItem from="1606920324651" duration="16000" />
+      <workItem from="1607966601873" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="356" key="#SQL_Dialects" timestamp="1602964185849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="356" key="#SQL_Dialects/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602964185849" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602964164287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602964164287" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603016236043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603016236042" />
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1602961119877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602961119877" />
+    <state x="571" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602959734438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602959734438" />
+    <state x="2413" y="324" key="FileChooserDialogImpl" timestamp="1605967519553">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603561070576" />
+    <state x="2413" y="324" key="FileChooserDialogImpl/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1605967519553" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1603561594692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603561594692" />
+    <state width="1237" height="256" key="GridCell.Tab.0.bottom/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1603052459739" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1603561594692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603561594692" />
+    <state width="1237" height="256" key="GridCell.Tab.0.center/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1603052459739" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1603561594692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603561594692" />
+    <state width="1237" height="256" key="GridCell.Tab.0.left/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1603052459739" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1603561594692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603561594692" />
+    <state width="1237" height="256" key="GridCell.Tab.0.right/1920.64.1280.984/0.0.1920.1040@1920.64.1280.984" timestamp="1603052459739" />
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1603016605802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603016605802" />
+    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1603016605802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.center/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603016605802" />
+    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1603016605802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.left/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603016605802" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1603016605802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.right/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603016605802" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602961008563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602961008563" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1603015717217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603015717217" />
+    <state x="2227" y="47" width="864" height="967" maximized="true" key="dock-window-1" timestamp="1603016878136">
+      <screen x="1920" y="64" width="1280" height="984" />
+    </state>
+    <state x="2227" y="47" width="864" height="967" maximized="true" key="dock-window-1/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603016878136" />
+    <state x="668" y="95" width="583" height="849" key="find.popup" timestamp="1603014059719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="95" width="583" height="849" key="find.popup/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603014059719" />
+    <state x="746" y="257" key="refactoring.ChangeSignatureDialog" timestamp="1602965953056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="257" key="refactoring.ChangeSignatureDialog/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602965953056" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602961884648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602961884648" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autocode/EmployeeDaoTests.java</url>
+          <line>60</line>
+          <properties class="com.epam.rd.autocode.EmployeeDaoTests" method="employeeDaoFindByDep">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autocode/DepartmentDaoTests.java</url>
+          <line>55</line>
+          <properties class="com.epam.rd.autocode.DepartmentDaoTests" method="departmentDaoSaveDelete">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autocode/EmployeeDaoTests.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autocode/DepartmentDaoTests.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/epam/rd/autocode/DepartmentDaoTests.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
