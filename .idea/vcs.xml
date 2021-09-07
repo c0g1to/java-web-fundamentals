@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL&amp;JDBC/dao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL&amp;JDBC/row-mapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL&amp;JDBC/service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL&amp;JDBC/set-mapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL&amp;JDBC/sql-queries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Servlets/expression-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Servlets/jsp-currencies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Servlets/stateful-expression-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring Core/spring-chess-layouts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring Core/spring-custom-scopes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring Core/spring-video-beans" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring MVC/employee-catalog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring MVC/spring-boot-stateful-expression-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring MVC/spring-catalog-access" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-web-fundamentals" vcs="Git" />
+  </component>
+</project>

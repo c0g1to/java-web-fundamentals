@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/expression-calculator/src/test/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/expression-calculator/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/expression-calculator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/expression-calculator/tomcat.8080" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/jsp-currencies/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/jsp-currencies/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/jsp-currencies/tomcat.8080" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/stateful-expression-calculator/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/stateful-expression-calculator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Servlets/stateful-expression-calculator/tomcat.8080" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring Core/spring-chess-layouts/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring Core/spring-chess-layouts/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring Core/spring-custom-scopes/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring Core/spring-custom-scopes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring Core/spring-video-beans/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring Core/spring-video-beans/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring MVC/employee-catalog/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring MVC/employee-catalog/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring MVC/spring-boot-stateful-expression-calculator/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring MVC/spring-boot-stateful-expression-calculator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring MVC/spring-catalog-access/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring MVC/spring-catalog-access/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/dao/src/test/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/dao/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/dao/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/row-mapper/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/row-mapper/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/service/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/service/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/set-mapper/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/set-mapper/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/sql-queries/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/SQL&amp;JDBC/sql-queries/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
